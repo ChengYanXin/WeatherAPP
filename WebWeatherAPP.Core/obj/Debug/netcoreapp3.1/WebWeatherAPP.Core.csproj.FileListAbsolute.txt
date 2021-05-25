@@ -24,3 +24,6 @@ E:\WeatherAPP\WebWeatherAPP.Core\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.
 E:\WeatherAPP\WebWeatherAPP.Core\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 E:\WeatherAPP\WebWeatherAPP.Core\obj\Debug\netcoreapp3.1\WebWeatherAPP.Core.MvcApplicationPartsAssemblyInfo.cs
 E:\WeatherAPP\WebWeatherAPP.Core\obj\Debug\netcoreapp3.1\WebWeatherAPP.Core.csproj.CopyComplete
+E:\WeatherAPP\WebWeatherAPP.Core\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\WeatherAPP\WebWeatherAPP.Core\bin\Debug\netcoreapp3.1\WeatherAPP.Comman.dll
+E:\WeatherAPP\WebWeatherAPP.Core\bin\Debug\netcoreapp3.1\WeatherAPP.Comman.pdb

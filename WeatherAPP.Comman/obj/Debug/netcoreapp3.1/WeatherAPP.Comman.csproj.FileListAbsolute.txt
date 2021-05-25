@@ -1,0 +1,8 @@
+E:\WeatherAPP\WeatherAPP.Comman\bin\Debug\netcoreapp3.1\WeatherAPP.Comman.deps.json
+E:\WeatherAPP\WeatherAPP.Comman\bin\Debug\netcoreapp3.1\WeatherAPP.Comman.dll
+E:\WeatherAPP\WeatherAPP.Comman\bin\Debug\netcoreapp3.1\WeatherAPP.Comman.pdb
+E:\WeatherAPP\WeatherAPP.Comman\obj\Debug\netcoreapp3.1\WeatherAPP.Comman.AssemblyInfoInputs.cache
+E:\WeatherAPP\WeatherAPP.Comman\obj\Debug\netcoreapp3.1\WeatherAPP.Comman.AssemblyInfo.cs
+E:\WeatherAPP\WeatherAPP.Comman\obj\Debug\netcoreapp3.1\WeatherAPP.Comman.csproj.CoreCompileInputs.cache
+E:\WeatherAPP\WeatherAPP.Comman\obj\Debug\netcoreapp3.1\WeatherAPP.Comman.dll
+E:\WeatherAPP\WeatherAPP.Comman\obj\Debug\netcoreapp3.1\WeatherAPP.Comman.pdb
